@@ -1,5 +1,7 @@
 # Verde-Vital
+
 PT-BR
+
 Firefox Theme - Verde Vital
 O tema "Verde Vital" para Firefox combina um fundo espacial fascinante com destaques vibrantes em verde brilhante e sutis tonalidades de azul. Inspirado pela vastidão do cosmos, o fundo espacial proporciona uma sensação de profundidade e mistério, enquanto o verde brilhante adiciona energia e destaque aos elementos principais da interface. O azul suave no fundo complementa essa paleta, proporcionando um contraste equilibrado e uma experiência visual envolvente para os usuários do Firefox que buscam uma estética moderna e estimulante.
 
