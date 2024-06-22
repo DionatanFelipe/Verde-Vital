@@ -9,3 +9,8 @@ The "Verde Vita" theme for Firefox combines a captivating space-themed backgroun
 1.about:addons
 2. Instalar de um arquivo (install from a archive)
 3. upload theme.xpi
+
+theme:
+![Screenshot_20240622_165759](https://github.com/DionatanFelipe/Verde-Vital/assets/122566200/51972911-e59e-47a9-8ed4-c2a2f0716efb)
+Theme(1):
+![Screenshot_20240622_165731](https://github.com/DionatanFelipe/Verde-Vital/assets/122566200/3b3079f5-241d-4c96-b573-ad6faee43679)
