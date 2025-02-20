@@ -9,6 +9,15 @@ EN-INT
 
 The "Verde Vita" theme for Firefox combines a captivating space-themed background with vibrant highlights in bright green and subtle shades of blue. Inspired by the vastness of the cosmos, the space background evokes a sense of depth and mystery, while the bright green adds energy and emphasis to the main interface elements. The soft blue in the background complements this palette, providing balanced contrast and an engaging visual experience for Firefox users seeking a modern and stimulating aesthetic.
 
+-----
+
+Verde vital escuro:
+
+https://addons.mozilla.org/firefox/addon/verde-vital-escuro/
+
+verde vital:
+
+https://addons.mozilla.org/firefox/addon/verde-vital/
 
 1.about:addons
 2. Instalar de um arquivo (install from a archive)
